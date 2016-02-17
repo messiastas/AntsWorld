@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HumanBehavior.cs">
+    <Files>
+      <File FileName="Assets\Scripts\HumanBehavior.cs" Line="27" Column="4" />
+      <File FileName="Assets\Scripts\Ants\AntSoldierBehavior.cs" Line="29" Column="4" />
+      <File FileName="Assets\Scripts\Ants\AntBehavior.cs" Line="439" Column="5" />
+      <File FileName="Assets\Scripts\LevelController.cs" Line="112" Column="70" />
+      <File FileName="Assets\Scripts\HiveController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ants\AntCargo.cs" Line="16" Column="94" />
+      <File FileName="Assets\Scripts\BulletBehavior.cs" Line="33" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
